@@ -12,12 +12,17 @@
 4. Нажмите кнопку **Загрузить распакованное расширение** слева вверху.
 5. Выберите папку, в которую вы распаковали файлы репозитория.
 
+![](/images/screenshot_1.JPG)
+
 ## Использование
 
 1. Нажмите на иконку расширения на панели инструментов Chrome.
 2. Вставьте список прямых ссылок на изображения (каждая ссылка с новой строки).
-3. Укажите расширение скачиваемых изображений. 
+3. Если прямые ссылки не содержат расширения изображений (такое редко, но бывает), то укажите его вручную. 
 4. Нажмите кнопку **Скачать**.
+
+![](/images/screenshot_2.png) 
+![](/images/screenshot_3.png)
 
 Файлы будут загружены в папку "Downloads" с именами формата `image_001.jpg`, `image_002.jpg` и т. д. 
 
@@ -25,5 +30,9 @@
 
 ## Пример
 
-Можете использовать следующий список ссылок на тестовые изображения:
+Можно использовать следующий список ссылок на тестовые изображения:
+
+`https://raw.githubusercontent.com/ekashi95/image_downloader/refs/heads/main/images/test_image_1.jpg
+https://raw.githubusercontent.com/ekashi95/image_downloader/refs/heads/main/images/test_image_2.jpg
+https://raw.githubusercontent.com/ekashi95/image_downloader/refs/heads/main/images/test_image_3.jpg`
 
