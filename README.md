@@ -25,7 +25,7 @@
 5. Появится всплывающее окно с предупреждением о числе скачиваемых файлов. Нажмите **ОК**. 
 
 <p align="center">
-  <img src="/images/screenshot_2.png" height="200" alt="screenshot_2.png">
+  <img src="/images/screenshot_2.png" height="300" alt="screenshot_2.png">
 </p>
 
 Файлы будут загружены в папку "Downloads" с именами формата `image_001.jpg`, `image_002.jpg` и т. д. 
