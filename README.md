@@ -12,7 +12,9 @@
 4. Нажмите кнопку **Загрузить распакованное расширение** слева вверху.
 5. Выберите папку, в которую вы распаковали файлы репозитория.
 
-![Установка расширения в режиме разработчика в Chrome](/images/screenshot_1.png)
+<p align="center">
+  <img src="/images/screenshot_1.png" height="200" alt="screenshot_1.png">
+</p>
 
 ## Использование
 
@@ -22,8 +24,7 @@
 4. Нажмите кнопку **Скачать**.
 
 <p align="center">
-  <img src="/images/screenshot_2.png" height="200" alt="В тексте ссылок присутствует расширение файла, поэтому вручную указывать его необязательно">
-  <img src="/images/screenshot_3.png" height="200" alt="Предупреждение о числе загружаемых файлов">
+  <img src="/images/screenshot_2.png" height="200" alt="screenshot_2.png">
 </p>
 
 Файлы будут загружены в папку "Downloads" с именами формата `image_001.jpg`, `image_002.jpg` и т. д. 
