@@ -36,7 +36,9 @@
 
 Можно использовать следующий список ссылок на тестовые изображения:
 
-`https://raw.githubusercontent.com/ekashi95/image_downloader/refs/heads/main/images/test_image_1.jpg`
-`https://raw.githubusercontent.com/ekashi95/image_downloader/refs/heads/main/images/test_image_2.jpg`
-`https://raw.githubusercontent.com/ekashi95/image_downloader/refs/heads/main/images/test_image_3.jpg`
+```
+https://raw.githubusercontent.com/ekashi95/image_downloader/refs/heads/main/images/test_image_1.jpg
+https://raw.githubusercontent.com/ekashi95/image_downloader/refs/heads/main/images/test_image_2.jpg
+https://raw.githubusercontent.com/ekashi95/image_downloader/refs/heads/main/images/test_image_3.jpg
+```
 
